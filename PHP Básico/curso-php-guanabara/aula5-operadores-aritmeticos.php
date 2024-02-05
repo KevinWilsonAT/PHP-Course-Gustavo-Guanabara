@@ -45,28 +45,28 @@
         $v1 = $_GET["x"];
         $v2 = $_GET["y"];
 
-        echo"<br><h2>Received values: $v1 and $v2</h2><br>";
-        echo"The absolute value of $v2 is ".abs($v2)."<br>";
+        echo "<br><h2>Received values: $v1 and $v2</h2><br>";
+        echo "The absolute value of $v2 is ".abs($v2)."<br>";
 
         // Potentiating numbers
 
-        echo"The value of $v1<sup>$v2</sup> is ".pow($v1,$v2)."<br>";
+        echo "The value of $v1<sup>$v2</sup> is ".pow($v1,$v2)."<br>";
 
         // Square root
 
-        echo"The square root of $v1 is ".sqrt($v1)."<br>";
+        echo "The square root of $v1 is ".sqrt($v1)."<br>";
 
         // rounding numbers
 
-        echo"The rounded value of $m is ".round($m)."<br>"; // ceil = rounds up ; floor = rounds down
+        echo "The rounded value of $m is ".round($m)."<br>"; // ceil = rounds up ; floor = rounds down
 
         // integer part of a number
 
-        echo"The integer part of $m is ".intval($m)."<br>";
+        echo "The integer part of $m is ".intval($m)."<br>";
 
         // formatting numbers
 
-        echo"The value of $m in currency is ". number_format($m, 2, ",", ".")."<br>";
+        echo "The value of $m in currency is ". number_format($m, 2, ",", ".")."<br>";
     ?>
 </div>
 </body>
