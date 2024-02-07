@@ -17,7 +17,7 @@
         echo "Your Birth Year is $year<br>";
         echo "You are a $gender<br>";
 
-        echo "<a href='aula8c-exercicio2-integracao-html-php.html'>Voltar</a>";
+        echo "<a href='aula8b-exercicio2-integracao-html-php.html'>Voltar</a>";
     ?>
 </div>
 </body>
