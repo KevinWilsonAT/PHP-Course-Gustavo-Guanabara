@@ -18,7 +18,7 @@
         echo 'Equal: $a == $b<br>';
         echo 'Identical: $a === $b<br><br>';
 
-        echo "<h2>Unary Operator</h2><br>";
+        echo "<h2>Ternary Operator</h2><br>";
 
         echo '[expression of comparison] ? [the result, in case of true in the comparison] :[the result, in case of
                 false in the comparison]<br>';
