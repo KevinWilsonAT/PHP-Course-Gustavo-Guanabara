@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Estrutura Repetição While em PHP</title>
+    <title>Estrutura Repetição Do While em PHP</title>
 </head>
 <body>
 <div>
