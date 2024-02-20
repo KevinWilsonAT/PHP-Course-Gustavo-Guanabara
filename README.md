@@ -11,3 +11,8 @@
 </h2>
 
 ![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
+
+### Linguagens do repositório:
+
+<img src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge"><!-- -->
+<img src="https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge"><!-- -->
